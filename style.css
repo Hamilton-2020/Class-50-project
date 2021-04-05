@@ -1,0 +1,39 @@
+.header{
+    background-color: rgb(232, 214, 248);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.chameleon{
+    background-color: rgb(232, 214, 248);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pigeon{
+    background-color: rgb(232, 214, 248);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bodying{
+    background-color: rgb(232, 214, 248);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Corigami{
+    background-color: rgb(232, 214, 248);
+    display: flex;
+    justify-content: space-around;
+    border:rgb(74, 3, 136)
+    border-radius: 1cm;
+}
+
+.Porigami{
+    background-color: rgb(232, 214, 248);
+    display: flex;
+    justify-content: space-around;
+    border: rgb(74, 3, 136);
+    border-radius: 1cm;
+}
